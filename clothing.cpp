@@ -3,7 +3,7 @@
 #include <iomanip>
 #include <string>
 #include <set>
-#include <list>
+#include <list> 
 #include <map>
 #include "clothing.h"
 #include "util.h"
